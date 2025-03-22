@@ -16,6 +16,9 @@ html, body{
     height: 100%;
     width: 100%;
 }
+html{
+    zoom: 80%;
+}
 
 #main{
     height: 100%;
